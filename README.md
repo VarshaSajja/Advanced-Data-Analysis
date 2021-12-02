@@ -12,5 +12,5 @@ Regularized Regression over Overall Survival Years and Multinomial Logistic Regr
 **Conclusion :**
 
 Exploration of the breast cancer gene expression dataset through the METABRIC database revealed key findings in relation to clinical and genomic variables and their significance in predicting the overall survival years in breast cancer patients.
-Throughout our analysis the prominence of clinical variables with relation to the well-being of patients was clear.
+Throughout the analysis the prominence of clinical variables with relation to the well-being of patients was clear.
 This analysis just begins to scratch the surface of the work to be done with regards to breast cancer, but we hope that it can be a starting point for further analysis that can lead to a cure.
